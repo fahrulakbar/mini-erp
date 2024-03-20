@@ -3,16 +3,16 @@
  Merupakan Penerapan dari sistem ERP sederhana yang memiliki beberapa role dan jobdesk masing masing role, antara lain: 
 
 1. Sales:
-Bertanggung jawab untuk membuat Sales Order (SO) dan mengubah statusnya menjadi Approved setelah persetujuan.
+- Bertanggung jawab untuk membuat Sales Order (SO) dan mengubah statusnya menjadi Approved setelah persetujuan.
 
 2. Admin Purchase: 
-Membuat Purchase Order (PO) yang terkait dengan Sales Order yang sudah disetujui.
-Mengubah status PO menjadi Approved setelah persetujuan.
+- Membuat Purchase Order (PO) yang terkait dengan Sales Order yang sudah disetujui.
+- Mengubah status PO menjadi Approved setelah persetujuan.
 
 3. Admin Warehouse
-Membuat penerimaan barang berdasarkan Purchase Order yang sudah disetujui.
-Menyetujui penerimaan barang untuk mengubah statusnya menjadi Approved.
-Bertanggung jawab untuk memperbarui stok barang setelah penerimaan barang disetujui.
+- Membuat penerimaan barang berdasarkan Purchase Order yang sudah disetujui.
+- Menyetujui penerimaan barang untuk mengubah statusnya menjadi Approved.
+- Bertanggung jawab untuk memperbarui stok barang setelah penerimaan barang disetujui.
 
 ## Development Setup
 
